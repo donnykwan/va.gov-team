@@ -39,7 +39,10 @@ Name & Link to slack or teams profile
   - 
 
 ## What We're Working On
-- Summary of major intitiatives 
+- 18F is conducting a 10-week Path Analysis,aka, consulting project on VA's BTSSS. We are looking at the BTSSS problem holistically, such as user painpoints, business need, orgainization and culture, processes, GRC (Governanmce, Risk & Compliance), legal mandates and technology.
+- Major initiatves include interviews (veterans, business owner & claim clerks), processes and technology reviews.
+- After we gather all the relevant data,  we will perform data analysis and write a recommendataion report at the end of the project.
+- The recommendations shall aim to make the health travel claim much easier and reduce the claim cycle (from start to money in the bank) significantly. 
 
 ## Product Documentation
 - Roadmap
